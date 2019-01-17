@@ -2,7 +2,9 @@ package main
 import(
 	"fmt"
 )
-
+/*
+	code prints out 10-1 in recursively
+*/
 func main(){
 	printrec(10)
 }
